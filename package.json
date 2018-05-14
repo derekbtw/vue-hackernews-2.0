@@ -3,6 +3,7 @@
   "description": "A Vue.js project",
   "author": "Evan You <yyx990803@gmail.com>",
   "private": true,
+  "main": "src/App.js",
   "scripts": {
     "dev": "node server",
     "start": "cross-env NODE_ENV=production node server",
